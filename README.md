@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 😃
 
 I am Ashna Nizam, currently a student at College of Engineering, Trivandrum.
 
