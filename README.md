@@ -25,7 +25,7 @@ I love to work on Arduino, Microcontrollers, Flutter, Web development and I do p
 [<img src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:ashnizaster@gmail.com) 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/_.chakzz.99._)
-[![Visits Badge](https://badges.pufler.dev/visits/chandran-jr/chandran-jr?style=for-the-badge)](https://github.com/AshNiz24)
+[![Visits Badge](https://badges.pufler.dev/visits/AshNiz24/AshNiz24?style=for-the-badge)](https://github.com/AshNiz24)
 
 </p>
 
