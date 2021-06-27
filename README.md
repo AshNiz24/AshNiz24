@@ -22,6 +22,7 @@ I love to work on Arduino, Microcontrollers, Flutter, Web development and I do p
 <p align = "center">
  
 [<img src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:ashnizaster@gmail.com) 
+[<img src = "https://img.shields.io/badge/youtube-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/channel/UC2F7dFqZms_EWIUhfYdc3jA)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ashna-nizam-b622901a2/)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/_.chakzz.99._)
 
