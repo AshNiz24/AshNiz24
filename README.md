@@ -1,17 +1,11 @@
-## Hey there!! 😃
+<img src="Banner.png"/>
 
-I am **Ashna Nizam**, currently a student at **College of Engineering, Trivandrum**, pursuing **B.Tech EEE**.
-
-I love to work on Arduino, Microcontrollers, Flutter, Web development and I do photoshop and designing.
-
-
-- 🔭 I’m currently working on Flutter Development
-- 🌱 I’m currently learning Javascript
-- 👯 I’m looking to collaborate on Flutter apps, Arduino projects
-- 💬 Ask me about Flutter, IoT, Arduino, Photoshop, and Microcontrollers.
+<br>
 
  
- ![Ashna github stats](https://github-readme-stats.vercel.app/api?username=AshNiz24&show_icons=true&theme=radical&hide=issues)
+ <p align="center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=AshNiz24&show_icons=true&count_private=true&theme=dark&hide=issues&line_height=32">
+</p>
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshNiz24&layout=compact)](https://github.com/AshNiz24/github-readme-stats)
  
